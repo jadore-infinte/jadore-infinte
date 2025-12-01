@@ -1,16 +1,16 @@
-## Hi there 👋
+# HIII
 
-<!--
-**jadore-infinte/jadore-infinte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tarek. I'm from Syria, and I like computers and stuff.
 
-Here are some ideas to get you started:
+I'm a beginner programmer learning full-stack web development.  
+My goal is to one day make my own operating system! (ik it's ambitious but whatever)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I like:
+- anime  
+- cats  
+- Syria  
+- history  
+- computers  
+- coding  
+
+That's all, byee!
